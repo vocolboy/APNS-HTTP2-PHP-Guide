@@ -234,3 +234,4 @@ curl_close($http2ch);
 
 ### 打完收工
 > 心得 APNS 真的坑
+> 重點是這個Server Certificates一年後就失效要renew ....fuck
